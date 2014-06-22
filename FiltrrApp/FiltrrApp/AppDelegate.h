@@ -11,6 +11,8 @@
 
 @class ViewController;
 
+//sjank
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
